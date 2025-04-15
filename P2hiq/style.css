@@ -1,0 +1,57 @@
+/* * {
+    margin: 0;
+}
+
+h2 {
+    color: green;
+    background-color: red;
+    /* margin: 10px 20px 25px; */
+
+
+}
+
+.class {
+    color: aqua;
+}
+
+#id {
+    color: brown;
+}
+
+
+.container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.item1 {
+    background-color: aqua;
+    height: 50px;
+}
+
+.item2 {
+    background-color: rgb(122, 185, 122);
+    height: 50px;
+}
+
+.item3 {
+    background-color: rgb(71, 88, 236);
+    height: 50px;
+} 
+
+
+.nav-container {
+   background-color:red;
+   display: flex;
+   justify-content: space-around;
+    
+}
+
+.brand {
+    counter-reset: red;
+
+}
+
